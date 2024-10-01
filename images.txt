@@ -1,3 +1,2 @@
 
 whyour/qinglong:latest
-xiaoyaliu/alist
